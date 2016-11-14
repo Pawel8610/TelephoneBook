@@ -1,0 +1,51 @@
+ALTER PROCEDURE dbo.AddUser
+    @pLogin NVARCHAR(50), 
+    @pPassword NVARCHAR(50),
+    @pFirstName NVARCHAR(40) = NULL, 
+    @pLastName NVARCHAR(40) = NULL,
+    @pPermissions NVARCHAR(1) = NULL
+AS
+BEGIN
+    SET NOCOUNT ON
+
+    DECLARE @Salt UNIQUEIDENTIFIER=NEWID()
+   
+
+        INSERT INTO dbo.[User] (LoginName, PasswordHash, Salt, FirstName, LastName, Permissions)
+        VALUES(@pLogin, HASHBYTES('SHA1', @pPassword+CAST(@Salt AS NVARCHAR(36))), @Salt, @pFirstName, @pLastName, @pPermissions)
+  END
+
+
+
+Przyk³adowe wywo³anie procedury:  (litera N nie potrzebna)
+
+USE Phone
+EXEC AddUser
+          @pLogin = N'Pawel86',
+          @pPassword = N'123',
+          @pFirstName = N'Pawe³',
+          @pLastName = N'Andrzejczyk',
+          @pPermissions = 'A'
+
+USE Phone
+EXEC AddUser
+          @pLogin = 'Monia86',
+          @pPassword = '321',
+          @pFirstName = 'Monika',
+          @pLastName = 'Sitarek',
+          @pPermissions = ''
+
+
+EXEC Phone.dbo.AddUser
+          @pLogin = 'Kazik86',
+          @pPassword = '123',
+          @pFirstName = 'Krzysztof',
+          @pLastName = 'Szweda',
+          @pPermissions = 'U'
+
+
+Monia87   123
+
+usuwanie u¿ytkownika:
+
+DELETE FROM [Phone].[dbo].[User] where [Phone].[dbo].[User].[UserID] = 4;

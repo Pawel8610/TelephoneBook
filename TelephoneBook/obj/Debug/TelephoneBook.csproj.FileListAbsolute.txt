@@ -1,0 +1,103 @@
+c:\users\pawel\documents\visual studio 2012\Projects\TelephoneBook\TelephoneBook\bin\Debug\TelephoneBook.exe.config
+c:\users\pawel\documents\visual studio 2012\Projects\TelephoneBook\TelephoneBook\bin\Debug\TelephoneBook.exe
+c:\users\pawel\documents\visual studio 2012\Projects\TelephoneBook\TelephoneBook\bin\Debug\TelephoneBook.pdb
+c:\users\pawel\documents\visual studio 2012\Projects\TelephoneBook\TelephoneBook\obj\Debug\TelephoneBook.csprojResolveAssemblyReference.cache
+c:\users\pawel\documents\visual studio 2012\Projects\TelephoneBook\TelephoneBook\obj\Debug\TelephoneBook.Form1.resources
+c:\users\pawel\documents\visual studio 2012\Projects\TelephoneBook\TelephoneBook\obj\Debug\TelephoneBook.Properties.Resources.resources
+c:\users\pawel\documents\visual studio 2012\Projects\TelephoneBook\TelephoneBook\obj\Debug\TelephoneBook.csproj.GenerateResource.Cache
+c:\users\pawel\documents\visual studio 2012\Projects\TelephoneBook\TelephoneBook\obj\Debug\TelephoneBook.exe
+c:\users\pawel\documents\visual studio 2012\Projects\TelephoneBook\TelephoneBook\obj\Debug\TelephoneBook.pdb
+C:\Users\Pawel\Desktop\TelephoneBook\TelephoneBook\bin\Debug\TelephoneBook.exe.config
+C:\Users\Pawel\Desktop\TelephoneBook\TelephoneBook\obj\Debug\TelephoneBook.exe
+C:\Users\Pawel\Desktop\TelephoneBook\TelephoneBook\obj\Debug\TelephoneBook.pdb
+C:\Users\Pawel\Desktop\TelephoneBook\TelephoneBook\bin\Debug\TelephoneBook.exe
+C:\Users\Pawel\Desktop\TelephoneBook\TelephoneBook\bin\Debug\TelephoneBook.pdb
+C:\Users\Pawel\Desktop\TelephoneBook\TelephoneBook\obj\Debug\TelephoneBook.csprojResolveAssemblyReference.cache
+C:\Users\Pawel\Desktop\TelephoneBook\TelephoneBook\obj\Debug\TelephoneBook.Form1.resources
+C:\Users\Pawel\Desktop\TelephoneBook\TelephoneBook\obj\Debug\TelephoneBook.Properties.Resources.resources
+C:\Users\Pawel\Desktop\TelephoneBook\TelephoneBook\obj\Debug\TelephoneBook.csproj.GenerateResource.Cache
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\TelephoneBook2\TelephoneBook\bin\Debug\TelephoneBook.exe.config
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\TelephoneBook2\TelephoneBook\obj\Debug\TelephoneBook.exe
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\TelephoneBook2\TelephoneBook\obj\Debug\TelephoneBook.pdb
+C:\Users\Pawel\Desktop\TelephoneBook2\TelephoneBook\bin\Debug\TelephoneBook.exe.config
+C:\Users\Pawel\Desktop\TelephoneBook2\TelephoneBook\obj\Debug\TelephoneBook.exe
+C:\Users\Pawel\Desktop\TelephoneBook2\TelephoneBook\obj\Debug\TelephoneBook.pdb
+C:\Users\Pawel\Desktop\TelephoneBook2\TelephoneBook\obj\Debug\TelephoneBook.csprojResolveAssemblyReference.cache
+C:\Users\Pawel\Desktop\TelephoneBook2\TelephoneBook\obj\Debug\TelephoneBook.Form1.resources
+C:\Users\Pawel\Desktop\TelephoneBook2\TelephoneBook\obj\Debug\TelephoneBook.Properties.Resources.resources
+C:\Users\Pawel\Desktop\TelephoneBook2\TelephoneBook\obj\Debug\TelephoneBook.csproj.GenerateResource.Cache
+C:\Users\Pawel\Desktop\TelephoneBook2\TelephoneBook\bin\Debug\TelephoneBook.exe
+C:\Users\Pawel\Desktop\TelephoneBook2\TelephoneBook\bin\Debug\TelephoneBook.pdb
+C:\Users\Pawel\Desktop\TelephoneBook3\TelephoneBook\bin\Debug\TelephoneBook.exe.config
+C:\Users\Pawel\Desktop\TelephoneBook3\TelephoneBook\obj\Debug\TelephoneBook.exe
+C:\Users\Pawel\Desktop\TelephoneBook3\TelephoneBook\obj\Debug\TelephoneBook.pdb
+C:\Users\Pawel\Desktop\TelephoneBook3\TelephoneBook\bin\Debug\TelephoneBook.exe
+C:\Users\Pawel\Desktop\TelephoneBook3\TelephoneBook\bin\Debug\TelephoneBook.pdb
+C:\Users\Pawel\Desktop\TelephoneBook3\TelephoneBook\obj\Debug\TelephoneBook.csprojResolveAssemblyReference.cache
+C:\Users\Pawel\Desktop\TelephoneBook3\TelephoneBook\obj\Debug\TelephoneBook.Form1.resources
+C:\Users\Pawel\Desktop\TelephoneBook3\TelephoneBook\obj\Debug\TelephoneBook.Properties.Resources.resources
+C:\Users\Pawel\Desktop\TelephoneBook3\TelephoneBook\obj\Debug\TelephoneBook.csproj.GenerateResource.Cache
+C:\Users\Pawel\Desktop\TelephoneBook4\TelephoneBook\bin\Debug\TelephoneBook.exe.config
+C:\Users\Pawel\Desktop\TelephoneBook4\TelephoneBook\obj\Debug\TelephoneBook.exe
+C:\Users\Pawel\Desktop\TelephoneBook4\TelephoneBook\obj\Debug\TelephoneBook.pdb
+C:\Users\Pawel\Desktop\TelephoneBook4\TelephoneBook\bin\Debug\TelephoneBook.exe
+C:\Users\Pawel\Desktop\TelephoneBook4\TelephoneBook\bin\Debug\TelephoneBook.pdb
+C:\Users\Pawel\Desktop\TelephoneBook4\TelephoneBook\obj\Debug\TelephoneBook.csprojResolveAssemblyReference.cache
+C:\Users\Pawel\Desktop\TelephoneBook4\TelephoneBook\obj\Debug\TelephoneBook.Form1.resources
+C:\Users\Pawel\Desktop\TelephoneBook4\TelephoneBook\obj\Debug\TelephoneBook.Form2.resources
+C:\Users\Pawel\Desktop\TelephoneBook4\TelephoneBook\obj\Debug\TelephoneBook.Properties.Resources.resources
+C:\Users\Pawel\Desktop\TelephoneBook4\TelephoneBook\obj\Debug\TelephoneBook.csproj.GenerateResource.Cache
+C:\Users\Pawel\Desktop\TelephoneBook4\TelephoneBook\obj\Debug\TelephoneBook.Form3AddNewUser.resources
+C:\Users\Pawel\Desktop\TelephoneBook4\TelephoneBook\obj\Debug\TelephoneBook.Email.resources
+C:\Users\Pawel\Desktop\TelephoneBook4\TelephoneBook\obj\Debug\TelephoneBook.BigPicture.resources
+C:\Users\Pawel\Desktop\TelephoneBook4\TelephoneBook\obj\Debug\Interop.Office.dll
+C:\Users\Pawel\Desktop\TelephoneBook4\TelephoneBook\obj\Debug\TelephoneBook.csproj.ResolveComReference.cache
+C:\Users\Pawel\Desktop\TelephoneBook4\TelephoneBook\bin\Debug\itextsharp.dll
+C:\Users\Pawel\Desktop\TelephoneBook4\TelephoneBook\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Pawel\Desktop\TelephoneBook4\TelephoneBook\bin\Debug\itextsharp.xtra.dll
+C:\Users\Pawel\Desktop\TelephoneBook4\TelephoneBook\bin\Debug\itextsharp.xml
+C:\Users\Pawel\Desktop\TelephoneBook4 - Copy\TelephoneBook\bin\Debug\TelephoneBook.exe.config
+C:\Users\Pawel\Desktop\TelephoneBook4 - Copy\TelephoneBook\obj\Debug\Interop.Office.dll
+C:\Users\Pawel\Desktop\TelephoneBook4 - Copy\TelephoneBook\obj\Debug\TelephoneBook.csproj.ResolveComReference.cache
+C:\Users\Pawel\Desktop\TelephoneBook4 - Copy\TelephoneBook\obj\Debug\TelephoneBook.exe
+C:\Users\Pawel\Desktop\TelephoneBook4 - Copy\TelephoneBook\obj\Debug\TelephoneBook.pdb
+C:\Users\Pawel\Desktop\TelephoneBook4 - Copy\TelephoneBook\bin\Debug\TelephoneBook.exe
+C:\Users\Pawel\Desktop\TelephoneBook4 - Copy\TelephoneBook\bin\Debug\TelephoneBook.pdb
+C:\Users\Pawel\Desktop\TelephoneBook4 - Copy\TelephoneBook\bin\Debug\itextsharp.dll
+C:\Users\Pawel\Desktop\TelephoneBook4 - Copy\TelephoneBook\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Pawel\Desktop\TelephoneBook4 - Copy\TelephoneBook\bin\Debug\itextsharp.xtra.dll
+C:\Users\Pawel\Desktop\TelephoneBook4 - Copy\TelephoneBook\bin\Debug\itextsharp.xml
+C:\Users\Pawel\Desktop\TelephoneBook4 - Copy\TelephoneBook\obj\Debug\TelephoneBook.csprojResolveAssemblyReference.cache
+C:\Users\Pawel\Desktop\TelephoneBook4 - Copy\TelephoneBook\obj\Debug\TelephoneBook.BigPicture.resources
+C:\Users\Pawel\Desktop\TelephoneBook4 - Copy\TelephoneBook\obj\Debug\TelephoneBook.Email.resources
+C:\Users\Pawel\Desktop\TelephoneBook4 - Copy\TelephoneBook\obj\Debug\TelephoneBook.Form1.resources
+C:\Users\Pawel\Desktop\TelephoneBook4 - Copy\TelephoneBook\obj\Debug\TelephoneBook.Form2.resources
+C:\Users\Pawel\Desktop\TelephoneBook4 - Copy\TelephoneBook\obj\Debug\TelephoneBook.Form3AddNewUser.resources
+C:\Users\Pawel\Desktop\TelephoneBook4 - Copy\TelephoneBook\obj\Debug\TelephoneBook.Properties.Resources.resources
+C:\Users\Pawel\Desktop\TelephoneBook4 - Copy\TelephoneBook\obj\Debug\TelephoneBook.csproj.GenerateResource.Cache
+C:\Users\Pawel\Desktop\TelephoneBook4\TelephoneBook\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Pawel\Desktop\TelephoneBook5\TelephoneBook\bin\Debug\TelephoneBook.exe.config
+C:\Users\Pawel\Desktop\TelephoneBook5\TelephoneBook\obj\Debug\Interop.Office.dll
+C:\Users\Pawel\Desktop\TelephoneBook5\TelephoneBook\obj\Debug\TelephoneBook.csproj.ResolveComReference.cache
+C:\Users\Pawel\Desktop\TelephoneBook5\TelephoneBook\obj\Debug\TelephoneBook.exe
+C:\Users\Pawel\Desktop\TelephoneBook5\TelephoneBook\obj\Debug\TelephoneBook.pdb
+C:\Users\Pawel\Desktop\TelephoneBook5\TelephoneBook\bin\Debug\TelephoneBook.exe
+C:\Users\Pawel\Desktop\TelephoneBook5\TelephoneBook\bin\Debug\TelephoneBook.pdb
+C:\Users\Pawel\Desktop\TelephoneBook5\TelephoneBook\bin\Debug\itextsharp.dll
+C:\Users\Pawel\Desktop\TelephoneBook5\TelephoneBook\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Pawel\Desktop\TelephoneBook5\TelephoneBook\bin\Debug\itextsharp.xtra.dll
+C:\Users\Pawel\Desktop\TelephoneBook5\TelephoneBook\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Pawel\Desktop\TelephoneBook5\TelephoneBook\bin\Debug\itextsharp.xml
+C:\Users\Pawel\Desktop\TelephoneBook5\TelephoneBook\obj\Debug\TelephoneBook.csprojResolveAssemblyReference.cache
+C:\Users\Pawel\Desktop\TelephoneBook5\TelephoneBook\obj\Debug\TelephoneBook.BigPicture.resources
+C:\Users\Pawel\Desktop\TelephoneBook5\TelephoneBook\obj\Debug\TelephoneBook.Email.resources
+C:\Users\Pawel\Desktop\TelephoneBook5\TelephoneBook\obj\Debug\TelephoneBook.Form1.resources
+C:\Users\Pawel\Desktop\TelephoneBook5\TelephoneBook\obj\Debug\TelephoneBook.Form3AddNewUser.resources
+C:\Users\Pawel\Desktop\TelephoneBook5\TelephoneBook\obj\Debug\TelephoneBook.Properties.Resources.resources
+C:\Users\Pawel\Desktop\TelephoneBook5\TelephoneBook\obj\Debug\TelephoneBook.csproj.GenerateResource.Cache
+C:\Users\Pawel\Desktop\TelephoneBook5\TelephoneBook\obj\Debug\TelephoneBook.WhatsUpMessager.resources
+C:\Users\Pawel\Desktop\TelephoneBook5\TelephoneBook\bin\Debug\Thought.vCards.dll
+C:\Users\Pawel\Desktop\TelephoneBook5\TelephoneBook\obj\Debug\TelephoneBook.MyProfile.resources
+C:\Users\Pawel\Desktop\TelephoneBook5\TelephoneBook\obj\Debug\TelephoneBook.LogIn.resources
+C:\Users\Pawel\Desktop\TelephoneBook5\TelephoneBook\obj\Debug\TelephoneBook.VCardViewer.resources
+C:\Users\Pawel\Desktop\TelephoneBook5\TelephoneBook\obj\Debug\TelephoneBook.ServerSettings.resources
