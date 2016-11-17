@@ -21,7 +21,7 @@ namespace TelephoneBook
         SqlConnection con = new SqlConnection("Data Source=" + LogIn.ServerName + "; Initial Catalog=Phone; Integrated Security=true");
         //SqlConnection con = new SqlConnection("Data Source=PAWEL-PC\\KURS; Initial Catalog=Phone; Integrated Security=true");
         string imgLocation = "";
-        public static string pobierzEmail;//abym mógł wartość przekazać do innej klasy(np. okienka)
+        public static string pobierzEmail;
         public static string pobierzMobile;
         public static string pobierzID;//pole static aby nie tworzyć nowego obiektu (z innej klasy Form1.PobierzID aby uzyskać wartość tego pola)
         public static string pobierzBackground;//potrzebne też do zapisu ustawień do xmla
@@ -345,7 +345,7 @@ namespace TelephoneBook
                      }
           private void button2Save_Click(object sender, EventArgs e)
           {
-              SavePictureToDB(pic);//metoda zapisuje zdjęcie z vcard a jeśli nie zapodam go, to z imgLocation
+              SavePictureToDB(pic);//metoda zapisuje zdjęcie z vcard a jeśli nie podam go, to z imgLocation
               pic = null;//czyszcze, aby nie można było jednego zdjęcia wielokrotnie przypisać do wielu osób
               imgLocation = "";//aby nie pamiętało ścieżki ostatio ładowanego pliku
               CzyDefaultoweZdjecieWpikczerboksie = true;//aby po kliknięciu "na pusto" nie dało się powiększyć np. pustego zdjęcia
@@ -355,7 +355,7 @@ namespace TelephoneBook
           {
               try
               { 
-                  if(img==null) //jeśli nie zapodam zdjęcia z vcarda, to zdjęcie zostanie zapisane z lokalizacji imgLocation (po otworzeniu zdjęcia przyciskiem load)
+                  if(img==null) //jeśli nie podam zdjęcia z vcarda, to zdjęcie zostanie zapisane z lokalizacji imgLocation (po otworzeniu zdjęcia przyciskiem load)
                   //this code saving to DB:
               { 
                   FileStream fs = new FileStream(imgLocation, FileMode.Open, FileAccess.Read);
@@ -1138,7 +1138,7 @@ namespace TelephoneBook
           {
               VCardViewer formm = new VCardViewer();
               //formm.Show();
-              formm.ShowDialog();//aby nie było możliwości otwarciu wielu okienek
+              formm.ShowDialog();//aby nie było możliwości otwarcia wielu okienek
           }
            
       
